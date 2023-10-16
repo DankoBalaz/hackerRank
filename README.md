@@ -6,8 +6,8 @@ This repository contains my solutions to the daily challenges on [HackerRank](ht
 
 - Each directory is named after the challenge.
 - Inside each directory:
-    - `Solution.*`: The solution code, where `*` is the file extension for the programming language (e.g., `Solution.py` for Python, `Solution.cpp` for C++, etc.).
-    - `Problem.md`: A brief explanation of the solution, including the approach taken and any interesting observations or lessons learned.
+    - `<task-name>.*`: The solution code.
+    - `Problem.md`: A brief explanation of the problem.
 
 ## How to Use
 
@@ -15,7 +15,7 @@ This repository contains my solutions to the daily challenges on [HackerRank](ht
 2. Navigate to the directory of the challenge you're interested in.
 3. Read the `Problem.md` file to understand the challenge.
 4. Explore the `Solution.*` file to see my solution to the challenge.
-5. Optionally, read the `README.md` file in the challenge directory for an explanation of the solution.
+
 
 
 ## Contact
