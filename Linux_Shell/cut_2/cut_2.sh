@@ -1,4 +1,2 @@
 #!/bin/bash
-while read -r line; do
-    echo "$line" | cut -c2,7
-done < hello.txt
+ cut -c2,7 < hello.txt

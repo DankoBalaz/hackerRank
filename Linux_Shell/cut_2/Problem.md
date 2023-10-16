@@ -1,5 +1,5 @@
 # CUT #2
-Display the  and  character from each line of text.
+Display the 2nd and 7th character from each line of text.
 
 ## Input Format:
 
@@ -9,7 +9,7 @@ A text file with  lines of ASCII text only.
 - 1 `-ge` N `-ge` 100
 Output Format
 
-The output should contain  lines. Each line should contain just two characters at the  and the  position of the corresponding input line.
+The output should contain  lines. Each line should contain just two characters at the 2 and the 7 position of the corresponding input line.
 
 **NOTE**: This one is a bit tricky and needs a newline after how are you to not be ignored!
 ## Sample Input
