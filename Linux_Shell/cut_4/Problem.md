@@ -1,4 +1,4 @@
-# CUT #2
+# CUT #4
 Display the first four characters from each line of text.
 
 ## Input Format:
